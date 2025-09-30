@@ -1,0 +1,3 @@
+A função mistério é responsável por identificar a primeira
+ocorrência de um númerona lista, e se houver, remover o nó
+em que ele aparece.
